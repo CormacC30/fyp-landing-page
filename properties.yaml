@@ -8,3 +8,4 @@ credits: Cormac Costello
 github: https://github.com/tutors-sdk/tutors-starter/blob/master
 llm: 2
 lightboxpdf: true
+pdfOrientation : portrait
